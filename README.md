@@ -1,0 +1,1 @@
+# To run the Application direct to server folder and do "npm start"
